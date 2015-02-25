@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#galery {
+    position: relative;
+    top: 10px;
+    height: 520px;
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid #6ca;
+    background: rgba(100,160,100,0.3);
+}
+
+#big_img {
+    padding: 10px;
+    height: 386px;
+    width: 530px;
+}
+
+#small_img{
+    padding: 4px;
+    border-top: 1px solid #5abaca;
+}
